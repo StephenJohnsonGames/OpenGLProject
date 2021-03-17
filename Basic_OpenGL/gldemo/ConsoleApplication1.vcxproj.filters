@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{dd6f1238-f619-4114-86ca-5f84194bc46e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\CGPrincipleAxes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gldemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\shader_setup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\texture_loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CGTexturedQuad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\aiWrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modelVBO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sceneVBOs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GURiffModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\CGPrincipleAxes.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\shader_setup.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\texture_loader.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\CGTexturedQuad.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\aiWrapper.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\modelVBO.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\sceneVBOs.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GURiffModel.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shaders\basic_shader.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\basic_shader.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\basic_texture.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\basic_texture.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\mesh_shader.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\mesh_shader.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\lighting_shader.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\lighting_shader.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\water_shader.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\water_shader.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\ship1_shader.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\ship1_shader.fs">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>

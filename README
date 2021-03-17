@@ -1,0 +1,7 @@
+OpenGL Programming README
+
+- This project was made to explore basic OpenGL elements.
+
+- Areas explored include; loading models/textures, vertex and fragment shaders, lighting, VBOs and VAOs, OpenAL sound library etc...
+
+- Required libraries and solution included for ease (req Git LFS & Visual Studio). TODO - Convert to CMake project. 

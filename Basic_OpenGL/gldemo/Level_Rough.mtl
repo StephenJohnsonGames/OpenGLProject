@@ -1,0 +1,112 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 07.12.2018 16:40:13
+
+newmtl wire_153228214
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.6000 0.8941 0.8392
+	Kd 0.6000 0.8941 0.8392
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_140088225
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.5490 0.3451 0.8824
+	Kd 0.5490 0.3451 0.8824
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_006135113
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.0235 0.5294 0.4431
+	Kd 0.0235 0.5294 0.4431
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_214228153
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8392 0.8941 0.6000
+	Kd 0.8392 0.8941 0.6000
+	Ks 0.3500 0.3500 0.3500
+
+newmtl 01___Default
+	Ns 58.0000
+	Ni 1.5000
+	d 0.0900
+	Tr 0.9100
+	Tf 0.0900 0.0900 0.0900 
+	illum 2
+	Ka 0.8039 0.9373 0.9569
+	Kd 0.8039 0.9373 0.9569
+	Ks 0.6750 0.6750 0.6750
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 02___Default
+	Ns 100.0000
+	Ni 1.5000
+	d 0.3000
+	Tr 0.7000
+	Tf 0.3000 0.3000 0.3000 
+	illum 2
+	Ka 0.0000 0.4863 0.4902
+	Kd 0.0000 0.4863 0.4902
+	Ks 1.5210 1.5210 1.5210
+	Ke 0.0000 0.0000 0.0000
+
+newmtl wire_087225143
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.3412 0.8824 0.5608
+	Kd 0.3412 0.8824 0.5608
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Material__0
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka W:\Student\2017-18\st20131428\Year 2\Real Time Computer Graphics\CIS5013\week08- Intro to 3D\Common2\Resources\Textures\WaterTexture.png
+	map_Kd W:\Student\2017-18\st20131428\Year 2\Real Time Computer Graphics\CIS5013\week08- Intro to 3D\Common2\Resources\Textures\WaterTexture.png
+
+newmtl wire_028028177
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.1098 0.1098 0.6941
+	Kd 0.1098 0.1098 0.6941
+	Ks 0.3500 0.3500 0.3500
+
+newmtl 08___Default
+	Ns 43.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3843 0.3843 0.3843
+	Kd 0.3843 0.3843 0.3843
+	Ks 0.6660 0.6660 0.6660
+	Ke 0.1038 0.1038 0.1038
